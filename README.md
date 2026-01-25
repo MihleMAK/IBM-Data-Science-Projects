@@ -20,6 +20,8 @@ This Professional Certificate focuses heavily on applied learning, offering hand
 **Projects completed include:**
 - Extracting and creating graphs from financial data with the Pandas Python library
 - Using SQL to query census, crime, and school demographic data sets
+
+**Project to be included soon:**
 - Wrangle data, graph plots, and creating regression models to predict housing prices with data science Python libraries
 - Creating a dynamic Python dashboard to improve US domestic flight reliability
 - Applying machine learning classification algorithms to predict whether a loan case will be paid off
